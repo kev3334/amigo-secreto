@@ -98,7 +98,7 @@ function limpiarConfetti() {
 
 function agregarFooter() {
     const footer = document.createElement("footer");
-    footer.textContent = "© Desarrollado por: Hilthon Lliuyacc León®";
+    footer.textContent = "© Copyright";
     footer.style.textAlign = "center";
     footer.style.fontSize = "14px";
     footer.style.color = "#666";
